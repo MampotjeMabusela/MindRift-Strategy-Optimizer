@@ -1,0 +1,1 @@
+az webapp up --name mindrift-strategy-app --resource-group PCG-Apps --runtime "PYTHON:3.10"
